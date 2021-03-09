@@ -16,7 +16,6 @@
 <span> <img src="/img/vuejs.png" width="50" height="50" /> </span>
 <span> <img src="/img/php.png" width="50" height="50" /> </span>
 <span> <img src="/img/mysql.png" width="50" height="50" /> </span>
-<span> <img src="/img/laravel.png" width="50" height="50" /> </span>
 
 
 
