@@ -25,9 +25,7 @@
 * [linkedin](https://www.linkedin.com/in/rocco-orefice-1879aa168/)
 
 
-<span> <img src="https://www.linkedin.com/in/rocco-orefice-1879aa168/" width="500" height="500" /> </span>
-
-https://www.linkedin.com/in/rocco-orefice-1879aa168/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roccorefice)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
