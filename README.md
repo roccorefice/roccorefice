@@ -18,6 +18,13 @@
 <span> <img src="/img/mysql.png" width="50" height="50" /> </span>
 <span> <img src="/img/laravel.png" width="50" height="50" /> </span>
 
+***
+
+##### Come contattarmi:
+* [email](rocco.orefice92@gmail.com)
+* [linkedin](https://www.linkedin.com/in/rocco-orefice-1879aa168/)
+
+
 
 
 
