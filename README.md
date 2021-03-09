@@ -21,7 +21,7 @@
 ***
 
 ##### Come contattarmi:
-* [email: rocco.orefice92@gmail.com
+* rocco.orefice92@gmail.com
 * [linkedin](https://www.linkedin.com/in/rocco-orefice-1879aa168/)
 
 
