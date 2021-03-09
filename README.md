@@ -7,9 +7,9 @@
 ***
 
 ##### Languages and Tools:
-![HTML](<img src="/img/html.png" width="50" height="50" />)
-![HTML](<img src="/img/css.png" width="50" height="50" />)
-![HTML](<img src="/img/javascript.png" width="50" height="50" />)
+![HTML] <img src="/img/html.png" width="50" height="50" />
+![HTML] <img src="/img/css.png" width="50" height="50" />
+![HTML] <img src="/img/javascript.png" width="50" height="50" />
 
 
 
