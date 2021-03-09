@@ -8,5 +8,6 @@
 
 ##### Languages and Tools:
 * ![HTML](/img/html.png= 10x20)
+<img src="/img/html.png" width="20" height="20" />
 * [Technology name](https://example.com): Version 2.34
 * [Library name](https://example.com): Version 1234
