@@ -12,7 +12,7 @@
 <span> <img src="/img/javascript.png" width="50" height="50" /> </span>
 <span> <img src="/img/bootstrap.png" width="50" height="50" /> </span>
 <span> <img src="/img/sass.png" width="50" height="50" /> </span>
-<span> <img src="/img/jquery2.png" width="50" height="50" /> </span>
+<span> <img src="/img/jquery2.webp" width="50" height="50" /> </span>
 <span> <img src="/img/vuejs.png" width="50" height="50" /> </span>
 <span> <img src="/img/php.png" width="50" height="50" /> </span>
 <span> <img src="/img/mysql.png" width="50" height="50" /> </span>
