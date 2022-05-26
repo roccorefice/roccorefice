@@ -14,6 +14,7 @@
 <span> <img src="/img/sass.png" width="60" height="50" /> </span>
 <span> <img src="/img/jq.png" width="120" height="40" /> </span>
 <span> <img src="/img/vuejs.png" width="50" height="50" /> </span>
+<span> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="50" height="50" /> </span>
 <span> <img src="/img/php.png" width="50" height="50" /> </span>
 <span> <img src="/img/mysql.png" width="70" height="60" /> </span>
 <span> <img src="/img/laravel.png" width="50" height="50" /> </span>
