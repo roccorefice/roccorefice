@@ -14,6 +14,7 @@
 <span> <img src="/img/sass.png" width="60" height="50" /> </span>
 <span> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="50" height="50" /> </span>
 <span> <img src="/img/react.png" width="70" height="50" /> </span>
+<span> <img src="/img/next.png" width="50" height="50" /> </span>
 <span> <img src="/img/formik.png" width="90" height="50" /> </span>
 <span> <img src="/img/tableau.png" width="120" height="50" /> </span>
 
