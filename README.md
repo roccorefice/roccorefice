@@ -1,8 +1,6 @@
 ### Benvenuto/a sul mio profilo GitHub 😻
 
-## 👋  Io sono Rocco e sono un Jr. Web Developer 🧑🏻‍💻
-
-#### Qui troverai sia repositories riguardanti esercizi da me svolti per implementare e approfondire le mie conoscenze, sia progetti personali che ho intenzione di portare avanti nel tempo.
+## 👋  Io sono Rocco e sono un Frontend Developer 🧑🏻‍💻
 
 ***
 
@@ -17,7 +15,7 @@
 <span> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="50" height="50" /> </span>
 <span> <img src="/img/php.png" width="50" height="50" /> </span>
 <span> <img src="/img/mysql.png" width="70" height="60" /> </span>
-<span> <img src="/img/laravel.png" width="50" height="50" /> </span>
+<span> <img src="/img/react.png" width="50" height="50" /> </span>
 
 ***
 
